@@ -23,7 +23,8 @@
 
 1. Copy Henry's GitHub repo into the extracted ZIP folder
 2. Navigate to `z_sub.py` and update the code to match [this repo](https://github.com/Samepia1/Samepia1-laptop-esp-zenoh_pico-BNO086-imu-communication) <!-- replace # with actual link -->
-3. In the terminal, navigate to that directory and run:
+3. The file location is /ZenohTest/z_sub.py
+4. In the terminal, navigate to that directory and run:
    ```bash
    uv init
    uv venv
