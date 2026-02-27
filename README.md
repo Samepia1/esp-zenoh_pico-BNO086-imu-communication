@@ -1,6 +1,6 @@
 # Zenoh ESP32 Setup Guide
 
-## 💻 Laptop Setup
+## Laptop Setup
 
 ### 1. Download Zenoh
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🔧 PlatformIO Environment Setup
+## PlatformIO Environment Setup
 
 ### 1. Create the Project Folder
 
@@ -67,7 +67,7 @@ Copy and paste everything from the GitHub repo into the folder, or clone it dire
 
 ---
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
 ### USB Connection Issues
 
