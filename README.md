@@ -66,6 +66,15 @@ Copy and paste everything from the GitHub repo into the folder, or clone it dire
 | `pio device monitor` | View serial output / print statements |
 
 ---
+## PlatformIO Environment Setup
+
+### Pinout table connnections
+
+| Sensor wire color | Pin on the ESP32 board |
+|---|---|
+| White (+ voltage) | 3.3V power output pin |
+| Black (ground) | Ground pin |
+| Grey (signal) | Rx2 Pin (near D4 and D5 pins) |
 
 ## Troubleshooting
 
